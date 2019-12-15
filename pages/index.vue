@@ -208,7 +208,7 @@ export default {
       font-weight: bold;
     }
     .allCount {
-      font-size: 72px;
+      font-size: 56px;
       line-height: 55px;
       color: white;
     }
